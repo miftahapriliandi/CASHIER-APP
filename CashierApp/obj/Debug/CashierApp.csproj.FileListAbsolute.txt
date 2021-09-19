@@ -1,0 +1,11 @@
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\bin\Debug\CashierApp.exe.config
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\bin\Debug\CashierApp.exe
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\bin\Debug\CashierApp.pdb
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.csproj.AssemblyReference.cache
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.FormHome.resources
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.FormLogin.resources
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.Properties.Resources.resources
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.csproj.GenerateResource.cache
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.csproj.CoreCompileInputs.cache
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.exe
+D:\Coding\Desktop\csharp\AplikasiKasir\CashierApp\CashierApp\obj\Debug\CashierApp.pdb
