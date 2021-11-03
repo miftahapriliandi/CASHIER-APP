@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CashierApp
 {
-    public partial class FormHome : Form
+    public partial class Main : Form
     {
-        public FormHome()
+        public Main()
         {
             InitializeComponent();
         }
